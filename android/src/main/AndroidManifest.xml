@@ -1,6 +1,3 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.robertsheao.RNZenDeskSupport">
-
-          <activity android:name="zendesk.support.guide.HelpCenterActivity"
-            android:exported="true" />
 </manifest>
