@@ -1,9 +1,3 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.robertsheao.RNZenDeskSupport">
-
-        <application>
-            <activity
-                android:exported="true"/>
-                
-        </application>
 </manifest>
